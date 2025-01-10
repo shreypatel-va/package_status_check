@@ -1,0 +1,61 @@
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\PM Status Check.exe
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\PM Status Check.dll.config
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\PM Status Check.deps.json
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\PM Status Check.runtimeconfig.json
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\PM Status Check.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\PM Status Check.pdb
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Validators.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Abstractions.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Serilog.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Serilog.Settings.AppSettings.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Serilog.Sinks.Notepad.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Std.UriTemplate.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\System.ClientModel.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.csproj.AssemblyReference.cache
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM_Status_Check.Main.resources
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM_Status_Check.WebPopup.resources
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.csproj.GenerateResource.cache
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.AssemblyInfoInputs.cache
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.AssemblyInfo.cs
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.csproj.CoreCompileInputs.cache
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.sourcelink.json
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Statu.489E2FFF.Up2Date
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\refint\PM Status Check.dll
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.pdb
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\PM Status Check.genruntimeconfig.cache
+C:\Users\vacopatels7\OneDrive - Department of Veterans Affairs\Desktop\shared\idt\PM-Status-Check\PM Status Check\obj\Debug\net6.0-windows\ref\PM Status Check.dll
